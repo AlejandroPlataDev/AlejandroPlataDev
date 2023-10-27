@@ -59,7 +59,7 @@
 
 - **Aplicaciones y herramientas**:
 
-    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,linux)](https://skillicons.dev)
 
 <br>
 
