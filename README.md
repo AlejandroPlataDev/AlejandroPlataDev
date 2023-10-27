@@ -19,7 +19,7 @@
 
 - Un apasionado desarrollador Web .
 - Pentester.
-- Actualmente aprendiendo Arquitectura de software y desarrollo de viddeojuegos .
+- Actualmente aprendiendo Arquitectura de software y desarrollo de videojuegos .
 - Sitio web personal [link]()
 - Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi currículum]()
 
